@@ -22,6 +22,9 @@ The task is to build 3 interpolation models and apply them on a new grid.
 Output data:
 1) test.ans - function values on the new grid
 
+Extra:
+Plots - *name*.png
+
 Programs generate and solve linear equations (n x n sized) until its execution time reaches 1 second.
 Also they compare solutions with numpy methods, build graphs of code execution time. 
 

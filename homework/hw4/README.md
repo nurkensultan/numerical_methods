@@ -7,7 +7,7 @@ file: transfer.py
 file: heat.py
 
 Output:
-plot animation - <name>.gif
+plot animation - *name*.gif
 
 How to launch code:
-$ python3 <name>.py
+$ python3 *name*.py

@@ -7,9 +7,9 @@ file: jacobi.py
 file: seidel.py
 
 Output:
-plot - <name>.png
+plot - *name*.png
 
-Programs generate and solve linear equations (n*n sized) until its execution time.
+Programs generate and solve linear equations (n x n sized) until its execution time.
 Also they compare solutions with numpy methods, build graphs of code execution time.
 
-How to launch code: $ python3 <name>.py
+How to launch code: $ python3 *name*.py

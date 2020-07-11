@@ -11,9 +11,9 @@ file: cholesky.py
 file: sweep.py
 
 Output:
-plot - <name>.png
+plot - *name*.png
 
-Programs generate and solve linear equations (n*n sized) until its execution time reaches 1 second.
+Programs generate and solve linear equations (n x n sized) until its execution time reaches 1 second.
 Also they compare solutions with numpy methods, build graphs of code execution time. 
 
-How to launch code: $ python3 <name>.py
+How to launch code: $ python3 *name*.py
